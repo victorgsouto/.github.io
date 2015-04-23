@@ -1,0 +1,59 @@
+#sidebar-navigation {
+    background: #f1c40f;
+}
+
+.screen,
+.add-colored-line,
+.add-colored-line-two,
+.get,
+#nprogress .bar, 
+#contact p input,
+.subscribe,
+.owl-theme .owl-controls .owl-page.active span {
+    background: #FFD146;
+}
+
+@media (min-width: 992px) {
+    
+    .top-column > div em,
+    .bottom-column > div em {
+        background: #FFD146;
+    }
+    
+}
+
+.colored-line, .colored-line-two {
+	border: 4px solid #FFD146;
+}
+
+.icon, 
+.top-column > div:hover h4,
+.bottom-column > div:hover h4,
+.top-column > div:hover .icon,
+.bottom-column > div:hover .icon,
+.item-title, #nprogress .spinner:before {
+    color:#FFD146 !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #FFD146;
+  border-left-color: #FFD146;
+}
+
+#contact div input:focus,
+#contact div textarea:focus,
+.email:focus {
+    border: 2px solid #FFD146;
+}
+
+.top-column > div em:before {
+    border-top: 14px solid #FFD146;
+}
+
+.bottom-column > div em:before {
+    border-bottom: 14px solid #FFD146;
+}
+a {
+color: #252525;
+text-decoration: none;
+}

@@ -1,0 +1,145 @@
+/* Styling color switcher */
+
+.color-switcher {
+    position: fixed;
+    background: white;
+    z-index: 999;
+    border: 1px solid #ccc;
+    border-bottom-right-radius: 8px;
+    top:50%;
+    margin-top: -123.5px;
+    -webkit-transform: translateX(-100%);
+    -moz-transform: translateX(-100%);
+    transform: translateX(-100%);
+    transition: .2s all ease;
+    -webkit-transition: .2s all ease;
+}
+
+.sliding {
+    -webkit-transform: translateX(0%);
+    -moz-transform: translateX(0%);
+    transform: translateX(0%);
+}
+
+.setting {
+    padding: 12px 10px 11px;
+    border-bottom: 1px solid #eee;
+    font-size: 12px;
+    margin: 0;
+    color:#555;
+}
+
+.title {
+    margin: 0;
+    padding: 8px 10px;
+    font-size: 11px;
+    color:#777;
+    border-bottom: 1px solid #eee;
+}
+
+.container-color-list .color-list:first-child {
+    list-style: none;
+    text-align: left;
+    padding: 12px 8px 0px;
+    margin: 0;
+}
+
+.container-color-list .color-list:last-child {
+    list-style: none;
+    text-align: left;
+    padding: 6px 8px 4px;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+}
+
+.color-list li {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 0 2px;
+}
+
+#gear:hover {
+    color: #aaa;
+}
+
+.color-list li.blue {
+    background: #5FA9E3;
+}
+
+.color-list li.green {
+    background: #5CD489;
+}
+
+.color-list li.purple {
+    background: #A864AB;
+}
+
+.color-list li.yellow {
+    background: #FFD146;
+}
+
+.color-list li.red {
+    background: #FE6F6F;
+}
+
+.color-list li.orange {
+    background: #F8B556;
+}
+
+.color-list li.brown {
+    background: #B37F4D;
+}
+
+.color-list li.pink {
+    background: #F58CB4;
+}
+
+#gear {
+    position: absolute;
+    top: -1px;
+    right: -42px;
+    font-size: 20px;
+    padding: 10px 10px;
+    background: white;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: #777;
+    cursor: pointer;
+}
+
+.layout-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.layout-list li {
+    margin: 0;
+    border-bottom: 1px solid white;
+    background: #eee;
+    cursor: pointer;
+}
+
+.layout-list li a {
+    font-size: 11px;
+    padding: 8px 10px;
+    color: #777;
+    margin: 0;
+    display: block;
+}
+
+.layout-list li a:hover {
+    color: #6FB1E6;
+    text-decoration: none;
+}
+
+.layout-list li:last-child {
+    border-bottom-right-radius: 8px;
+    border-bottom:none;
+}

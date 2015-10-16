@@ -1,17 +1,18 @@
-# victorgsouto.github.io
+#Trabalhos recentes:
 
-Trabalhos recentes:
-
-#Front-end: 
+##Front-end: 
 - JAVASCRIPT, JQUERY, CSS, CSS3, BOOTSTRAP:
-http://www.vichydermablend.com.br/ 
-http://www.dornellesimoveis.com.br/ 
-http://www2.qualimedia.com.br/carioca/
-http://www2.qualimedia.com.br/rodrigo_vesgo/
+-http://www.vichydermablend.com.br/ 
 
-#Front-end CRM:
+-http://www.dornellesimoveis.com.br/ 
+
+-http://www2.qualimedia.com.br/carioca/
+
+-http://www2.qualimedia.com.br/rodrigo_vesgo/
+
+##CRM:
 - ANGULARJS, JAVASCRIPT, JQUERY, CSS, CSS3, BOOTSTRAP
-https://www.ciapipe.com.br/
+-https://www.ciapipe.com.br/
 
 - Videos do sistema:
-https://www.youtube.com/channel/UCgS_xnm7T_H9JcCSaCpMRkQ
+-https://www.youtube.com/channel/UCgS_xnm7T_H9JcCSaCpMRkQ

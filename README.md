@@ -1,4 +1,4 @@
-#Trabalhos recentes:
+#Trabalhos recentes ;)
 
 ##Front-end: 
 - JAVASCRIPT, JQUERY, CSS, CSS3, BOOTSTRAP:
